@@ -4,7 +4,7 @@ This is a MATLAB package for the calculation of the spectral submanifold (SSM) a
 
 The corresponding theoretical background is described in the following articles:
 
-**[1] Szaksz, B., Orosz, G., Stepan, G. Spectral submanifolds in time delay Systems. Nonlinear Dyn. (2025) (https://doi.org/10.1007/s11071-025-10902-0)**
+**[1] Szaksz, B., Orosz, G., Stepan, G. Spectral submanifolds in time delay Systems. Nonlinear Dyn. (2025) https://doi.org/10.1007/s11071-025-10902-0**
 
 **[2] Szaksz, B., Orosz, G., Stepan, G. Reduction to spectral submanifolds in guided car-following with time delay. IFAC-PapersOnLine 58(27): 67-72 (2024) https://doi.org/10.1016/j.ifacol.2024.10.301**
 
